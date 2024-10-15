@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    font-family: "Inter", sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+
+.dropdown-item:hover {
+    color: #15BD68;
+}
+
+/* dropdown-item */
+.selextt {
+    background: none;
+
+}
+
+.selextt:focus {
+    outline: none;
+
+}
+
+.selext {
+    background: none;
+    color: white;
+    font-weight: 500;
+    border: none;
+    cursor: pointer;
+}
+
+.selext:hover {
+    color: #15BD68;
+}
+
+.selext:focus {
+    outline: none;
+
+}
+
+.shop-btn:hover {
+    background-color: #15BD68;
+}
+
+/* header-2-icon-back-color */
+
+.icon-back-color {
+    background-color: white;
+
+}
+
+.icon-back-color:hover {
+    background-color: #15BD68;
+    padding: 12px;
+    border-radius: 50px;
+    color: white;
+
+
+}
+
+
+/* footer-section */
+
+
+/* btn-align */
+
+.eamil-input {
+    border-radius: 50px;
+    border: 1px solid black;
+    width: 360px;
+   
+}
+
+.eamil-input:focus {
+    outline: none;
+}
+ 
+.btn-align {
+    top: 15%;
+    right: 3%;
+    background-color: #15BD68;
+}
+
+.btn-align:hover {
+    background-color: #184D47;
+}
+
+/* color-hover */
+.color-1 {
+    background-color: #E9F4EC;
+    color: #376762;
+}
+
+.color-2 {
+    background-color: #F7EFED;
+    color: #a57367;
+}
+
+.color-3 {
+    background-color: #ECE1EB;
+    color: #c935bc;
+    cursor: pointer;
+
+}
+
+.color-4 {
+    background-color: #F5F1EC;
+    color: #b68448;
+    cursor: pointer;
+
+}
+
+/* footer-section */
+
+.icon-color-1 {
+    background-color: #3B5998;
+    color: white;
+    cursor: pointer;
+}
+
+
+.icon-color-2 {
+    background-color: #1DA1F2;
+    color: white;
+    cursor: pointer;
+}
+
+.icon-color-3 {
+    background-color: #D91C1B;
+    color: white;
+    cursor: pointer;
+}
+
+.icon-color-4 {
+    background-color: #D63573;
+    color: white;
+    cursor: pointer;
+}
+
+.link {
+    color: #6F7273;
+    font-weight: 500;
+}
+
+.link:hover {
+    color: #15BD68;
+
+}
+
+.app-color {
+    color: #6F7273;
+    font-weight: 500;
+}
+
+.app-color:hover {
+    color: #15BD68;
+}
+
+/* footer-section */
